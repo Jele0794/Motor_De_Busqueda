@@ -5,6 +5,7 @@ package Objetos;
  * @version 1.0
  * @package Objetos
  */
+
 public class Frecuencia {
 
     public Termino palabra;
